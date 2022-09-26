@@ -1,0 +1,15 @@
+Algoritmo Led
+
+-V alimenta led
+
+-Declara a porta (Led)
+-Led saída (output)
+
+Repita (x vezes)
+-Led acende
+-Espera 1s
+-Led apaga
+-Espera 1s
+
+
+ 
